@@ -6,7 +6,10 @@ Add this to your composer.json file. "require": { "dambuk/cflashmessage": "dev-m
 Then use composer/packagist to download the package.
 
 Put this in your frontcontroller to get it working.
-$di->setShared('flashMessages', function() use ($di){ $flashMessages = new \dambuk\FlashMessage\CFlashMessage($di); return $flashMessages; });
+$di->setShared('flashMessages', function() use ($di){ 
+$flashMessages = new \dambuk\FlashMessage\CFlashMessage($di); 
+return $flashMessages;
+});
 
 In the router you need to add the css-stylesheet flash.css
 
