@@ -1,5 +1,5 @@
 [![Build Status](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/build-status/master)
-[![Code Coverage](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dambuk/CFlashMessages/?branch=master)
 
 # CFlashMessages
