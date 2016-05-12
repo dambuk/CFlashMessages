@@ -1,0 +1,19 @@
+{
+    "name": "dambuk/cflashmessages",    
+    "description": "Messages for Anax-MVC",
+    "keywords": ["CFlashmessages", "Flashmessages"],
+    "homepage": "http://github.com/dambuk/CFlashMessages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damian Bukowski",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "dambuk\\": "src/" }
+    }
+}
